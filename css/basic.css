@@ -2,6 +2,9 @@
 body{
     font-family:"맑은 고딕", "고딕", "굴림";
 }
+
+/* 헤더 부분 */
+
 #header {
     width: 80%;
     margin: 0 auto;
@@ -30,12 +33,6 @@ body{
     font-size: 13px;
 }
 
-/*
-p {
-    font-size: 15px;
-    line-height: 20px;
-}
-*/
 
 h1 {
     font-size: 2em;
@@ -274,11 +271,6 @@ h1 {
     font-size: 13px;
     color: #CF0000;
 }
-
-
-
-
-
 
 
 
